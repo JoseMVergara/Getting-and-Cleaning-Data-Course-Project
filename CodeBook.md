@@ -5,9 +5,6 @@ date: "24/8/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 ## The Data:
